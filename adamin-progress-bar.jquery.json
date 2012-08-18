@@ -1,0 +1,33 @@
+{
+  "name": "adamin-progress-bar",
+  "title": "y",
+  "description": "Learning to build a correct jQuery Plugin",
+  "version": "0.1.0",
+  "homepage": "https://github.com/pensive612/Adamin-Progress-Bar",
+  "author": {
+    "name": "Adam L.",
+    "email": "git@adamin.net",
+    "url": "http://adamin.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pensive612/Adamin-Progress-Bar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pensive612/Adamin-Progress-Bar/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/pensive612/Adamin-Progress-Bar/blob/master/LICENSE-MIT"
+    },
+    {
+      "type": "GPL",
+      "url": "https://github.com/pensive612/Adamin-Progress-Bar/blob/master/LICENSE-GPL"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">= 1.6"
+  },
+  "keywords": []
+}
